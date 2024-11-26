@@ -1,0 +1,10 @@
+{
+  "name": "Codespace Template",
+  "postCreateCommand": "./init.sh",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}
